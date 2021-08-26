@@ -1,0 +1,10 @@
+body{
+	text-align: center
+}
+
+div.game{
+	display: none;
+}
+div.alert{
+	color:red;
+}
